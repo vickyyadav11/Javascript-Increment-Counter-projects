@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+  height: 100vh;
+  background: #6e28d9;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.counter-container{
+    padding: 35px;
+}
+
+.counter{
+    padding: 10px;
+}
